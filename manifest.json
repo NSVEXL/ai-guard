@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "AI-Guard: Zero-Trust Scanner",
+  "version": "1.0",
+  "description": "Scans the current webpage for phishing using a local Gemini 2.5 API.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}
