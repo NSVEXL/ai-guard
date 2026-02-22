@@ -6,6 +6,13 @@ AI-Guard is a custom Chrome browser extension designed to provide real-time, Zer
 
 Standard ad-blockers and web filters rely on static blocklists that can easily be bypassed by zero-day phishing domains. AI-Guard solves this by utilizing a **Single-Shot Architecture** that scrapes the visible context of a webpage and cross-references it with VirusTotal analytics. This combined intelligence is then processed by Google's Gemini 2.5 Flash Lite engine to deliver an immediate, context-aware security verdict.
 
+<p align="center">
+  <img src="ss0.png" width="400" alt="AI-Guard Screenshot 0">
+  <img src="ss1.png" width="400" alt="AI-Guard Screenshot 1">
+  <img src="ss2.png" width="400" alt="AI-Guard Screenshot 2">
+  <img src="ss3.png" width="400" alt="AI-Guard Screenshot 3">
+</p>
+
 ## 🚀 Key Features
 
 * **Real-Time Context Analysis:** Scrapes the DOM and visible text of the active webpage to understand the actual content and intent of the site.
