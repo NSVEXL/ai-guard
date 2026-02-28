@@ -79,6 +79,3 @@ AI-Guard was built to bridge the gap between theoretical knowledge and practical
 This extension serves as a practical, hands-on application of the principles and methodologies I have mastered through the Google Cybersecurity Certificate, the TryHackMe SOC Level 1 pathways, and my CompTIA Security+ studies.
 
 Note: This is Version 1.0. Future updates (V2.0) will include background service workers for automated, invisible scanning and local Redis caching to further optimize API consumption.
-
-
-Once you have this saved in your repository, your project will immediately look like it was structured by an experienced developer. Let me know if you would like to start working on the automated Version 2.0 next!
